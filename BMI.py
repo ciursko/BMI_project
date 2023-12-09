@@ -1,10 +1,10 @@
 def main():
-    masa = float(input("Podaj mase ciała w kilogramach: "))
+    masa = float(input("Podaj mase ciała w kilogramach: ")) # Wprowadzanie masy ciała i wzrostu od użytkownika
     wzrost = float(input("Podaj wzrost w centymetrach: "))
-    BMI: float = masa / pow(wzrost / 100, 2)
-    BMI = float(round(BMI, 2))
-    print(BMI)
-    if BMI < 16.0:
+    BMI: float = masa / pow(wzrost / 100, 2) # Obliczanie BMI
+    BMI = float(round(BMI, 2)) # Zaokrąglanie do dwóch miejsc po przecinku
+    print(BMI) # Wyświetlanie obliczonego BMI
+    if BMI < 16.0: # Określanie kategorii BMI i wyświetlanie odpowiedniego komunikatu
         print("Wygłodzenie")
     elif 16.0 <= BMI <= 16.99:
         print("Wychudzenie")
