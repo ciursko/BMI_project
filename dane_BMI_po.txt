@@ -1,0 +1,36 @@
+Jednostki: imperialne
+Twoja waga 50.0
+Twój wzrost 60.0
+Twoje BMI wynosi: 9.76
+Kategoria: Wyg³odzenie
+
+Jednostki: metryczne
+Twoja waga 57.0
+Twój wzrost 135.0
+Twoje BMI wynosi: 31.28
+Kategoria: Oty³oœæ I stopnia
+
+Jednostki: imperialne
+Twoja waga 70.0
+Twój wzrost 100.0
+Twoje BMI wynosi: 4.92
+Kategoria: Wyg³odzenie
+
+Jednostki: metryczne
+Twoja waga 89.0
+Twój wzrost 215.0
+Twoje BMI wynosi: 19.25
+Kategoria: Porz¹dana masa cia³a
+
+Jednostki: imperialne
+Twoja waga 110.0
+Twój wzrost 63.0
+Twoje BMI wynosi: 19.48
+Kategoria: Porz¹dana masa cia³a
+
+Jednostki: metryczne
+Twoja waga 66.0
+Twój wzrost 189.0
+Twoje BMI wynosi: 18.48
+Kategoria: Niedowaga
+
